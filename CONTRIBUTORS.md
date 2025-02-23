@@ -17,3 +17,5 @@ For example:
 ## Contributors List
 
 <!-- Add your name below this line -->
+
+- [Dave Jodhan](https://github.com/daveswork) - Documentation, Bug Fix
